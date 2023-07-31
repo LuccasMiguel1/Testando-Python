@@ -2,6 +2,7 @@
 
  <div>
    <a href="https://github.com/LuccasMiguel1">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccasMiguel1&theme=dark&show_icons=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccasMiguel1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasMiguel1&layout=compact&langs_count=6&theme=radical"/>
 </div>
