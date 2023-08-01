@@ -1,9 +1,9 @@
-<P>PT-BR</P>
+<P style="text-align:center">PT-BR</P>
 Aqui irei colocar alguns códigos de python que estou treinando e aprendendo na minha aula do Senai, críticas são sempre bem vindas ;)
 
 Só uma adendo, alguns arquivos estão em .ipnyb, porque na aula usamos o google colaboratory, já que lá da para usar mais de um determinado código em um arquivo, sem embaralhar tudo.
 
-<P>EN-US</P>
+<P style="text-align:center">EN-US</P>
 
 Here I will put some python codes that I am training and learning in my Senai class, criticisms are always welcome ;)
 
