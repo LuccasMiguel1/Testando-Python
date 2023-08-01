@@ -1,7 +1,7 @@
 <P style="text-align:center">PT-BR</P>
-<a>Aqui irei colocar alguns códigos de python que estou treinando e aprendendo na minha aula do Senai, críticas são sempre bem vindas ;)</a>
+Aqui irei colocar alguns códigos de python que estou treinando e aprendendo na minha aula do Senai, críticas são sempre bem vindas ;)
 
-<a>Só uma adendo, alguns arquivos estão em .ipnyb, porque na aula usamos o google colaboratory, já que lá da para usar mais de um determinado código em um arquivo, sem embaralhar tudo.</a>
+Só uma adendo, alguns arquivos estão em .ipnyb, porque na aula usamos o google colaboratory, já que lá da para usar mais de um determinado código em um arquivo, sem embaralhar tudo.
 
 <P style="text-align:center">EN-US</P>
 
