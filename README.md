@@ -1,15 +1,10 @@
-## Hi and Welcome! I'm Luccas :)
+<P>PT-BR</P>
+Aqui irei colocar alguns códigos de python que estou treinando e aprendendo na minha aula do Senai, críticas são sempre bem vindas ;)
 
-<div>
-   <a   href="https://github.com/LuccasMiguel1">
-   <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=LuccasMiguel1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasMiguel1&layout=compact&langs_count=6&theme=radical"/>
-</div>
-<div>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<div>
-  <a   href="https://www.linkedin.com/in/luccas-miguel-da-cruz-dos-santos-415521247/" target="_blank">
-  <img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Só uma adendo, alguns arquivos estão em .ipnyb, porque na aula usamos o google colaboratory, já que lá da para usar mais de um determinado código em um arquivo, sem embaralhar tudo.
+
+<P>EN-US</P>
+
+Here I will put some python codes that I am training and learning in my Senai class, criticisms are always welcome ;)
+
+Just an addendum, some files are in .ipnyb, because in class we use google collaborative, since there you can use more than a certain code in a file, without shuffling everything.
